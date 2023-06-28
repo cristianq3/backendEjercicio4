@@ -1,4 +1,4 @@
-const express = require('express'); // requiero el modulo express y lo guardo en una variable
+const express = require("express"); // requiero el modulo express y lo guardo en una variable
 
 const app = express(); // ejecuto express y eso me devuelve un objeto que lo guardo en la variable app
 
